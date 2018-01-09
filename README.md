@@ -11,7 +11,7 @@ Three R based script files are also included in the data files, which provide th
 
 Most of the datasets above are in "long" format, meaning that individual variables are listed down a single column. For example, in the image below, we see responses to the question on gender. 
 
-![Data file](/Other/pct_data.png)
+![Data file](/Other/pct_data.PNG)
 
 Under the variable column, the codebook indicates that childcare1 refers to those who strongly disagree that their childcare is affordable, while childcare_afford3 refers to those who strongly agree that it is. For households in the BHL middle school zone, 252 people (or 22.6%) think that their childcare is not affordable, while 439 (or 39.4%) believe that it is. 
 
@@ -19,4 +19,4 @@ The included standard errors allow you to calculate the uncertainty for each est
 
 Due to the relatively small sample size in some areas, data are presented in quadrants--based on middle school attendance zones. Those zones are outlined on the map below.
 
-![Map](/Other/quadrant_map.png | width=50%)
+![Map](/Other/quadrant_map.png | width=200)
