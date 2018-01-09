@@ -19,4 +19,4 @@ The included standard errors allow you to calculate the uncertainty for each est
 
 Due to the relatively small sample size in some areas, data are presented in quadrants--based on middle school attendance zones. Those zones are outlined on the map below.
 
-![Map](/Other/quadrant_map.png)
+![Map](/Other/quadrant_map.png | width=50%)
